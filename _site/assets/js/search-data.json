@@ -13,32 +13,25 @@
     
     "relUrl": "/import-workflow/"
   },"2": {
-    "doc": "Welcome to DEVWKS-2240 - Using SecureX orchestration for Automating Public Cloud Incident Response and Remediation!",
+    "doc": "Welcome!",
     "title": "Welcome to DEVWKS-2240 - Using SecureX orchestration for Automating Public Cloud Incident Response and Remediation!",
     "content": "This workshop will be using a shared SecureX Orchestration instance on dCloud, Cisco’s demonstration and lab environment. Accessing Your Lab Environment: https://expo.ciscodcloud.com/61f3vnmo3a3mzoh0gzq0wfeb6 . Right-click and open in a new INCOGNITO MODE/PRIVATE WINDOW . Not required but if you want any additional details about interacting with public cloud providers using their APIs, you can find the API documentation for several of them below. IaaS API Documentation AWS: https://docs.aws.amazon.com GCP: https://cloud.google.com/compute/docs/reference/rest/v1 Azure: https://docs.microsoft.com/en-us/rest/api/azure . ",
+    "url": "/clus23-devwks-2240/#welcome-to-devwks-2240---using-securex-orchestration-for-automating-public-cloud-incident-response-and-remediation",
+    
+    "relUrl": "/#welcome-to-devwks-2240---using-securex-orchestration-for-automating-public-cloud-incident-response-and-remediation"
+  },"3": {
+    "doc": "Welcome!",
+    "title": "Welcome!",
+    "content": " ",
     "url": "/clus23-devwks-2240/",
     
     "relUrl": "/"
-  },"3": {
+  },"4": {
     "doc": "Integration with SecureX threat response",
     "title": "Integration with SecureX threat response",
     "content": "Integration with SecureX threat response . | Click Dashboard at the top of the SecureX Window to exit out of the Orchestration tool. | Expand the Ribbon by clicking the SecureX icon at the bottom-right of the screen to see created casebooks and incidents for this environment. | . | Click on the casebooks icon on the top of the window and find the DEVWKS-2240 Casebook Casebook created “By Others” by searching for ‘DEVWKS’ in the casebook pane. | . | Click Investigate in Threat Response located on the right-hand side of the Casebook drawer or on the upper-right of the ribbon. | . This will open up a new browser window that contains the results of our investigation into one domain and the AWS internal IP addresses from our lab. Once the enrichment of the observables is complete, you should see your IP address denoted as a ‘target’ in the resulting graph. | Use the drop-down to show the SecureX orchestration response actions that can be ran against this host, including the one you imported and uniquely named. | . THANK YOU for attending this DevNet Workshop and learning about SecureX orchestration. I’ll be putting some links and code into the Webex space associated with this session following this session! Enjoy your time at Cisco Live! . ",
     "url": "/clus23-devwks-2240/threat-response/",
     
     "relUrl": "/threat-response/"
-  },"4": {
-    "doc": "Welcome",
-    "title": "Welcome to DEVWKS-2240 - Using SecureX orchestration for Automating Public Cloud Incident Response and Remediation!",
-    "content": "This workshop will be using a shared SecureX Orchestration instance on dCloud, Cisco’s demonstration and lab environment. Accessing Your Lab Environment: https://expo.ciscodcloud.com/61f3vnmo3a3mzoh0gzq0wfeb6 . Right-click and open in a new INCOGNITO MODE/PRIVATE WINDOW . Not required but if you want any additional details about interacting with public cloud providers using their APIs, you can find the API documentation for several of them below. IaaS API Documentation AWS: https://docs.aws.amazon.com GCP: https://cloud.google.com/compute/docs/reference/rest/v1 Azure: https://docs.microsoft.com/en-us/rest/api/azure . ",
-    "url": "/clus23-devwks-2240/welcome/#welcome-to-devwks-2240---using-securex-orchestration-for-automating-public-cloud-incident-response-and-remediation",
-    
-    "relUrl": "/welcome/#welcome-to-devwks-2240---using-securex-orchestration-for-automating-public-cloud-incident-response-and-remediation"
-  },"5": {
-    "doc": "Welcome",
-    "title": "Welcome",
-    "content": " ",
-    "url": "/clus23-devwks-2240/welcome/",
-    
-    "relUrl": "/welcome/"
   }
 }

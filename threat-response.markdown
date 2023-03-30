@@ -2,6 +2,7 @@
 layout: page
 title: Integration with SecureX threat response
 permalink: /threat-response/
+nav_order: 4
 ---
 
 ### Integration with SecureX threat response
