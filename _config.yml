@@ -29,6 +29,8 @@ github_username:  briansak
 
 # Build settings
 theme: just-the-docs
+remote_theme: just-the-docs
+
 plugins:
   - jekyll-feed
 
