@@ -28,7 +28,6 @@ twitter_username: briansak
 github_username:  briansak
 
 # Build settings
-theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 plugins:
